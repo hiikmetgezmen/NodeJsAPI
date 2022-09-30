@@ -1,0 +1,26 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "description": "Node Js Api Example",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiikmetgezmen/NodeJsAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiikmetgezmen/NodeJsAPI/issues"
+  },
+  "homepage": "https://github.com/hiikmetgezmen/NodeJsAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.2"
+  }
+}
